@@ -23,7 +23,7 @@ function App() {
             <div>
               <Hero />
               <Food />
-              <HeadLineCardsComponent />
+              {/* <HeadLineCardsComponent /> */}
             </div>
           }
         />
