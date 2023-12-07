@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Muse-Semu/food-delivery-design/static/css/main.2d8eb0c0.css",
-    "main.js": "/Muse-Semu/food-delivery-design/static/js/main.dd601a41.js",
-    "static/js/787.24234093.chunk.js": "/Muse-Semu/food-delivery-design/static/js/787.24234093.chunk.js",
-    "index.html": "/Muse-Semu/food-delivery-design/index.html",
-    "main.2d8eb0c0.css.map": "/Muse-Semu/food-delivery-design/static/css/main.2d8eb0c0.css.map",
-    "main.dd601a41.js.map": "/Muse-Semu/food-delivery-design/static/js/main.dd601a41.js.map",
-    "787.24234093.chunk.js.map": "/Muse-Semu/food-delivery-design/static/js/787.24234093.chunk.js.map"
+    "main.css": "/food-delivery-design/static/css/main.2d8eb0c0.css",
+    "main.js": "/food-delivery-design/static/js/main.0efa7fdf.js",
+    "static/js/787.24234093.chunk.js": "/food-delivery-design/static/js/787.24234093.chunk.js",
+    "index.html": "/food-delivery-design/index.html",
+    "main.2d8eb0c0.css.map": "/food-delivery-design/static/css/main.2d8eb0c0.css.map",
+    "main.0efa7fdf.js.map": "/food-delivery-design/static/js/main.0efa7fdf.js.map",
+    "787.24234093.chunk.js.map": "/food-delivery-design/static/js/787.24234093.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d8eb0c0.css",
-    "static/js/main.dd601a41.js"
+    "static/js/main.0efa7fdf.js"
   ]
 }
