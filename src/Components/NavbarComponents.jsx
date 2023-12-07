@@ -109,7 +109,8 @@ function NavbarComponents() {
         <nav>
           <ul className="flex flex-col px-4 text-gray-500 font-semibold shadow-sm">
             <li className="text-xl py-4 flex cursor-pointer hover:text-gray-700 duration-500">
-              <TbHome size={25} className="mr-4" />
+              <TbHome size={25} className="mr-4" onClick={() => navigate("/foods")}/>
+
               Home
             </li>
 
