@@ -10,23 +10,11 @@ import Login from "./Components/Login";
 function App() {
   return (
     <BrowserRouter>
-      <NavbarComponents className="" />
-      {/* <div className="fixed inset-0 bg-black  bg-opacity-30 backdrop-blur-md">
-        <Login />
-      </div> */}
-
+      <NavbarComponents />
+      <Hero />
+      <Food/>
       <Routes>
-        <Route
-          exact
-          path="/food-delivery-design"
-          element={
-            <div>
-              <Hero />
-              <Food />
-              {/* <HeadLineCardsComponent /> */}
-            </div>
-          }
-        />
+        <Route exact path="food-delivery-desig" element={<div></div>} />
 
         <Route
           path="category"
