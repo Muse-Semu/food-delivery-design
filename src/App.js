@@ -18,7 +18,7 @@ function App() {
       <Routes>
         <Route
           exact
-          path="/"
+          path="/food-delivery-design"
           element={
             <div>
               <Hero />
